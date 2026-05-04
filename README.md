@@ -1,25 +1,70 @@
-Project 1: Basic Python Project
-Overview
-This project is part of the "Five Basic Python Projects" series. It demonstrates fundamental Python programming concepts and serves as a learning resource for beginners.
+# 🎯 Guess the Number Game
 
-Features
-Simple and easy-to-understand code
-Demonstrates core Python syntax and logic
-Well-commented for educational purposes
-Getting Started
-Clone the repository or download the project files.
+## 📌 Description
+This is a simple Python game where the computer generates a random number and the user has to guess it.
 
-Ensure you have Python installed.
+The program gives hints like "Too High" or "Too Low" until the correct number is guessed.
 
-Run the Python script:
+## ✨ Features
+- Random number generation
+- User input handling
+- Hint system (High/Low)
+- Simple CLI-based game
 
-python number_guessing_game.py
-Requirements
-Python 3.x
-Usage
-Follow the instructions in the code comments to understand and modify the project as needed.
+## 🛠️ Tech Stack
+- Python
 
-License
-This project is licensed under the MIT License.
+## ⚙️ How to Run
+1. Install Python
+2. Run the file:
+   python game.py
 
-Feel free to explore, learn, and modify the code!
+## 🎮 How to Play
+- Enter a number
+- Program will guide you:
+  - Too High
+  - Too Low
+- Keep guessing until correct
+
+## 🚀 Future Improvements
+- Add difficulty levels
+- Add score system
+- GUI version using Tkinter
+
+
+# 🐍 Snake Water Gun Game
+
+## 📌 Description
+This is a Python-based game similar to Rock Paper Scissors.
+
+- Snake drinks water
+- Water destroys gun
+- Gun kills snake
+
+The user plays against the computer.
+
+## ✨ Features
+- Random computer choice
+- User vs Computer gameplay
+- Score tracking
+
+## 🛠️ Tech Stack
+- Python
+
+## ⚙️ How to Run
+1. Install Python
+2. Run:
+   python game.py
+
+## 🎮 Rules
+- Snake 🐍 beats Water 💧
+- Water 💧 beats Gun 🔫
+- Gun 🔫 beats Snake 🐍
+
+## 🚀 Future Improvements
+- Add GUI
+- Multiplayer mode
+- Sound effects
+
+
+
